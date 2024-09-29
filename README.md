@@ -7,7 +7,7 @@ This project explores factors influencing sleep quality using machine learning t
 - [Research Methodology](#research-methodology)
 - [Key Findings](#key-findings)
 - [Results](#results)
-- 
+- [Dataset](#dataset)
 ## Introduction
 Sleep quality plays a crucial role in mental, physical, and emotional well-being. This research analyzes sleep patterns using machine learning algorithms to identify influential factors such as occupation, stress level, BMI, and heart rate. The findings provide insights into potential lifestyle and medical interventions to improve sleep health.
 
@@ -53,4 +53,4 @@ The analysis identified the following key findings:
 
 ## Dataset
 The dataset used in this research is available on Kaggle:
-- [Sleep Health and Lifestyle Dataset]([https://www.kaggle.com/datasets/uom190346a/sleep-health-and-lifestyle-dataset])
+- [Sleep Health and Lifestyle Dataset](https://www.kaggle.com/datasets/uom190346a/sleep-health-and-lifestyle-dataset)
